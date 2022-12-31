@@ -6,8 +6,8 @@
 "search": true,
 "params": {
 "/abc": {
-"password": "123"
+"password": "admin"
 },
 "/abc/abc": {
-"password": "123"
+"password": "admin"
 }
