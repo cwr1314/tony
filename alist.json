@@ -1,6 +1,6 @@
 [{
 "name": "瑞瑞alist",
-"server": "http://192.168.11.1:6789/",
+"server": "http://http://43.139.244.92:6789/",
 "startPage": "/",
 "showAll": false,
 "search": true,
