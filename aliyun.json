@@ -5,8 +5,8 @@
     "spider": "http://101.34.67.237/files/custom_spider_tang.jar",
     "drives": [
         {
-            "name": "自己Alist",
-            "server": "http://192.168.11.1:6789",
+            "name": "小雅的Alist",
+            "server": "http://alist.xiaoya.pro",
             "type": "alist"
         },
         {
@@ -3966,4 +3966,5 @@
         "cms.qdwght.com"
     ]
 }
+1
 
