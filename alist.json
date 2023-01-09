@@ -1,6 +1,6 @@
 [{
 "name": "阿里云盘",
-"server": "http://192.168.11.1:5678/",
+"server": "http://43.139.244.92:5678/",
 "startPage": "/",
 "showAll": false,
 "search": true,
